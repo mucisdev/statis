@@ -1,0 +1,2 @@
+# statis
+Asset untuk aplikasi
